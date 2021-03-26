@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nom":"Shingeki no Kyojin",
+        "type":"Shonen"
+    },
+    {
+        "id":2,
+        "nom": "Kimetsu no Yaiba",
+        "type":"Shonen"
+    
+    },
+    {
+        "id":3,
+        "nom": "Dragon Ball Z",
+        "type":"Shonen"
+    },
+    {
+        "id":4,
+        "nom": "Naruto",
+        "type":"Shonen"
+    },
+    {
+        "id":5,
+        "nom": "Black Clover",
+        "type":"Shonen"
+    },
+    {
+        "id":6,
+        "nom": "My Hero Academia",
+        "type":"Shonen"
+    },
+    {
+        "id":7,
+        "nom": "Boku No Pico",
+        "type":"Yaoi"
+    }
+]

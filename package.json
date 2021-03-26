@@ -1,0 +1,14 @@
+{
+  "name": "api-rest-test-nodejs",
+  "version": "1.0.0",
+  "description": "première api en node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alland07 && EidanU",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
